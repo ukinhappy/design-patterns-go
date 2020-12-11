@@ -1,4 +1,4 @@
-package single
+package design_patterns
 
 import "testing"
 

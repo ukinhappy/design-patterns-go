@@ -1,4 +1,4 @@
-package single
+package design_patterns
 
 import (
 	"math/rand"
@@ -6,6 +6,9 @@ import (
 	"time"
 )
 
+/*
+单例模式
+ */
 type Non struct {
 	Value int
 }
